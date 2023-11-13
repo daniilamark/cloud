@@ -14,3 +14,4 @@
 * [Настройка proxy](/proxy/proxy.md)
 * [Установка gitlab](/automatization_module/Install_gitlab_and_CA/CICD.md)
 * [Установка раннера](/automatization_module/Configure_gitlab/gitlab-runner.md)
+* [Хееееелп](/help/helper.md)
