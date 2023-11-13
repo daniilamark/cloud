@@ -1,6 +1,7 @@
 #Текст
 
-```/etc/resolv.conf
+```
+   /etc/resolv.conf
    nameserver 77.88.8.8
 ```
 
