@@ -1,4 +1,18 @@
-#Текст
+#Новое
+
+```
+https://github.com/screamo-boop/reaskills2023-app
+```
+
+```
+Берешь серт из /etc/ca/cacert.pem или ca.pem, я не понмю, как называется
+Копируешь его в хомяка, то есть /home/user/administrator
+Делаешь chmod 777 /home/user/administrator/cacert.pem
+
+Идешь настройки -> Приватность и защита, ищешь там сертификаты
+Идешь в центры сертификации, нажимаешь импортировать
+```
+
 
 ```
    /etc/resolv.conf
